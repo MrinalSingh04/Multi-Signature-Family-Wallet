@@ -6,7 +6,7 @@ It adds extra features like **monthly allowances, goal-based savings locks, and 
 ---
 
 ## ✨ Features
-
+ 
 ### 🛡️ Multi-Signature Wallet (2-of-3)
 
 - Any of the 3 owners can **propose** a transaction.
